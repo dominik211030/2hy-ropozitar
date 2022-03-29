@@ -6,7 +6,7 @@ def  is_whole_number(my_number):
     else:
         return False
 
-
+my-text="xdxdxdxxddxd"
 my_number = 5
 
 print(is_whole_number(my_number))
