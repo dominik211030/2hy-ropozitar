@@ -6,6 +6,7 @@ def  is_whole_number(my_number):
     else:
         return False
 
+<<<<<<< HEAD
 def is_even_number(my_number):
     if my_number % 2 == 0:
         return True
@@ -19,6 +20,9 @@ def  is_natural_number(my_numbers):
 
 print(is_natural_number(my_number)):
 
+
+
+my-text="xdxdxdxxddxd"
 
 my_number = 5
 
